@@ -1,0 +1,6 @@
+## Subreddits with lots of demographic rich submissions:
+https://www.reddit.com/r/relationships/
+
+## Submissions with lots of demographic-rich top-level comments:
+https://www.reddit.com/r/AskReddit/comments/9phld1/serious_reddit_what_is_your_age_and_what_problem/
+
