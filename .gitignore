@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 .DS_Store
 .ipynb_checkpoints/data_collection-checkpoint.ipynb
 .ipynb_checkpoints/FQT_PAT_MINING-checkpoint.ipynb
+=======
+*.csv
+>>>>>>> bdc6c4ddd3d4a5c5b60fae1a554bd694f6307ed0
